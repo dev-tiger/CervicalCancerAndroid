@@ -1,0 +1,20 @@
+{
+  "name": "appCervicalCancer",
+  "version": "0.0.0",
+  "authors": [
+    "andres-alvarez <andresalvarezs10@gmail.com>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "www/lib/",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "Framework7": "framework7#~1.2.0",
+    "Ionicons": "ionicons#~2.0.1"
+  }
+}
