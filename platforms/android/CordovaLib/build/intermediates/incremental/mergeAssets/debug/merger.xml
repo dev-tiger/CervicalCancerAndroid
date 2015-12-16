@@ -1,2 +1,2 @@
 <?xml version="1.0" encoding="utf-8"?>
-<merger version="3"><dataSet config="main"><source path="/home/andres/Framework7-Projects/appCervicalCancer/platforms/android/CordovaLib/assets"/></dataSet><dataSet config="debug"><source path="/home/andres/Framework7-Projects/appCervicalCancer/platforms/android/CordovaLib/src/debug/assets"/></dataSet></merger>
+<merger version="3"><dataSet config="main"><source path="/home/andres/Framework7-Projects/CervicalCancerAndroid/platforms/android/CordovaLib/assets"/></dataSet><dataSet config="debug"><source path="/home/andres/Framework7-Projects/CervicalCancerAndroid/platforms/android/CordovaLib/src/debug/assets"/></dataSet></merger>

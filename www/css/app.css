@@ -344,6 +344,11 @@ div.ks-demo-lazy {
 
 .background-color-cervix {
     background-color: #02657a;
+    /*background-color: #12535F;*/
+}
+
+.background-color-grid {
+    background-color: #002937;
 }
 
 .card-footer a.link, .card-header a.link {
@@ -372,10 +377,6 @@ div.ks-demo-lazy {
     font-size: 40px;
 }
 
-.custom-letter {
-    font-size: 15px;
-}
-
 .custom-item {
     color: white;
 }
@@ -383,8 +384,8 @@ div.ks-demo-lazy {
 .custom-border {
     /*margin: 0;*/
     border-style: solid;
-    border-width: 1px;
-    /*border-radius: 25px;*/
+    border-width: 2px;
+    border-radius: 25px;
     padding-top: 50px;
 }
 
@@ -454,4 +455,20 @@ html[dir="rtl"] .custom-accordion .accordion-item-toggle span {
 
 .ion-android-menu {
     font-size: 30px;
+}
+
+.letra-navbar {
+    font-family: 'Overlock', cursive;
+    font-style: italic;
+}
+
+.custom-letter {
+    font-size: 15px;
+    font-family: 'Open Sans', sans-serif;
+    font-style: italic;
+}
+
+.letra-menu {
+    font-family: 'Open Sans', sans-serif;
+    font-style: italic;
 }
